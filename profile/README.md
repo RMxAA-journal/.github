@@ -1,1 +1,1 @@
-# Revista Mexicana de Astronomía y Astrofísica
+Work related to the academic astrophysics journal *Revista Mexicana de Astronomía y Astrofísica* (RMxAA), which is published by the Astronomy Institute of the National Autonomous University of Mexico (IA-UNAM). 
